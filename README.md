@@ -13,6 +13,10 @@ O endereço padrão do I2C do modulo SSD1306 é 0x3c (60). Outros modulos podem 
 | SCK  | I2C clock line | GPI09    |
 | SDA  | I2C data line  | GPIO8    |
 
+## Ligação
+
+![Ligacao](docs/resources/imgs/ligacao.png)
+
 ## Exemplo de uso do módulo
 
 ```c++
